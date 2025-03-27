@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>TA10 - Estilos CSS</title>
+    <link rel="stylesheet" href="estilo.css"> <!-- CSS externo -->
+
+    <style>
+        /* CSS interno */
+        p {
+            background-color: green;
+            color: white;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Estilo externo -->
+    <div>Este es un div con estilo externo</div>
+
+    <!-- Estilo interno (párrafo) -->
+    <p>Este es un párrafo con estilo interno</p>
+
+    <!-- Estilo en línea -->
+    <button style="background-color: orange; font-size: 18px;">Botón con estilo inline</button>
+
+</body>
+</html>
+

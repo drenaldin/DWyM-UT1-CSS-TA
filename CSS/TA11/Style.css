@@ -1,0 +1,23 @@
+/* Elementos impares */
+.par {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* Segundo elemento (id="uno") */
+#uno {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Tercer elemento (clase adicional "cool") */
+.cool {
+    font-size: 24px;
+}
+
+/* Cuarto elemento (id="dos") */
+#dos {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
